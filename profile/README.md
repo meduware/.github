@@ -1,30 +1,32 @@
-![Meduware](Meduware.png)
+<p align="center">
+  <img src="Meduware.png" width="320" alt="Meduware"/>
+</p>
 
 # Meduware
 
-We are a young software company that builds across the full spectrum of digital products — game development, web applications, e-commerce solutions, and general software engineering. We believe in open collaboration and regularly share open-source projects with the community.
+We build software end to end — games, web apps, e-commerce, and the engineering behind them. We work in the open and keep a steady stream of our work as open source.
 
-Biz, dijital urunlerin tam yelpazesinde calisan genc bir yazılım sirketiyiz. Oyun gelistirme, web uygulamaları, e-ticaret cozumleri ve genel yazılım muhendisligi alanlarında projeler uretiyoruz. Acık kaynak yazılıma inanıyor ve duzenli olarak toplulukla projeler paylasıyoruz.
+Yazılımı baştan sona geliştiriyoruz: oyunlar, web uygulamaları, e-ticaret ve bunların arkasındaki mühendislik. İşimizi açıkça yürütüyor, ürettiklerimizin bir kısmını düzenli olarak açık kaynak paylaşıyoruz.
 
 ---
 
 ## What We Do / Neler Yapıyoruz
 
-- Game development / Oyun gelistirme
-- Web application development / Web uygulama gelistirme
-- E-commerce solutions / E-ticaret cozumleri
-- General software engineering / Genel yazılım muhendisligi
-- Open-source projects / Acık kaynak projeler
+- Game development / Oyun geliştirme
+- Web application development / Web uygulama geliştirme
+- E-commerce solutions / E-ticaret çözümleri
+- General software engineering / Genel yazılım mühendisliği
+- Open-source projects / Açık kaynak projeler
 
 ---
 
-## Open Source Projects / Acık Kaynak Projeler
+## Open Source Projects / Açık Kaynak Projeler
 
 ### Kizuna
 
-A privacy-focused, self-hosted communication platform for communities and businesses. Users can experience decentralized messaging by running their own servers.
+A privacy-first, self-hosted communication platform for communities and teams. Run your own server and keep your conversations decentralized — and yours.
 
-Topluluklar ve isletmeler icin gizlilik odaklı, kendi sunucunuzda barındırabileceginiz bir iletisim platformu. Kullanıcılar kendi sunucularını calıstırarak merkezi olmayan mesajlasmayı deneyimleyebilir.
+Topluluklar ve ekipler için gizlilik öncelikli, kendi sunucunuzda barındırdığınız bir iletişim platformu. Kendi sunucunuzu çalıştırın, yazışmalarınız merkezi olmayan ve size ait kalsın.
 
 [github.com/meduware/Kizuna](https://github.com/meduware/Kizuna)
 
@@ -32,9 +34,9 @@ Topluluklar ve isletmeler icin gizlilik odaklı, kendi sunucunuzda barındırabi
 
 ### Ekstre
 
-Mobile-first bank statement spending analysis. Upload a statement (PDF/CSV) and the app extracts and categorizes your transactions with an AI model, then shows where your money goes and where you can cut back. Ships as installable iOS/Android apps via a Capacitor WebView shell.
+Mobile-first spending analysis for bank statements. Upload a PDF or CSV and Ekstre extracts and categorizes your transactions with an AI model, then shows where your money goes and where you can cut back. Ships as installable iOS and Android apps through a Capacitor shell.
 
-Mobil oncelikli banka ekstresi harcama analizi. PDF veya CSV formatında ekstre yukleyin; uygulama yapay zeka ile islemleri otomatik olarak ayıklar ve kategorize eder, paranızın nereye gittigini ve nereden tasarruf edebileceginizi gosterir. Capacitor ile iOS ve Android'e kurulabilir uygulama olarak da sunulur.
+Mobil öncelikli banka ekstresi harcama analizi. PDF ya da CSV yükleyin; Ekstre işlemlerinizi yapay zekâ ile ayıklayıp kategorilere ayırır, paranızın nereye gittiğini ve nereden kısabileceğinizi gösterir. Capacitor ile iOS ve Android'e kurulabilir uygulama olarak sunulur.
 
 [github.com/meduware/ekstre](https://github.com/meduware/ekstre)
 
@@ -52,8 +54,8 @@ Mobil oncelikli banka ekstresi harcama analizi. PDF veya CSV formatında ekstre 
 
 ---
 
-## Contact / Iletisim
+## Contact / İletişim
 
 - GitHub: [github.com/meduware](https://github.com/meduware)
 - LinkedIn: [linkedin.com/company/meduware](https://linkedin.com/company/meduware)
-- Email: elif.kaynar@boemar.com.tr
+- Email: contact@meduware.net
