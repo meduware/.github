@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Meduware.png" alt="Meduware" width="300"/>
-</p>
+![Meduware](Meduware.png)
 
 # Meduware
 
